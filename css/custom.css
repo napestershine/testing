@@ -1,0 +1,164 @@
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-brand {
+
+    font-size: 3em;
+}
+
+.btn-default {
+    color: #333;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.btn {
+    border: none;
+    border-radius: 0;
+}
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: transparent;
+    /* outline: 5px auto -webkit-focus-ring-color; */
+    outline-offset: 0;
+}
+
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 225px;
+}
+
+.hi {
+    font-size: 400%;
+}
+
+.margin {
+    margin-left: 25px;
+}
+
+.label {
+    max-width: 100%;
+}
+
+.linkedinPad {
+    Padding: 0 70px;
+}
+
+.button {
+    padding: 10px;
+    width: 140%;
+    color: white;
+    background-color: #388E8E;
+}
+
+.bg-darkBlue {
+    background-color: #2e6da4;
+}
+
+.modal-footer {
+    padding-top: 0;
+}
+
+.button, input, optgroup, textarea {
+    margin: 12px -1px 0 125px;
+    padding: 10px;
+}
+
+.modal-footer .btn + .btn {
+    margin: 10px -5px 0 0;
+}
+
+.btnClose1 {
+    margin: 0 0 -10px 0;
+}
+
+.buttonSignupEmail {
+    margin: -4px 35px -10px -30px;
+}
+
+.h3or {
+    margin-left: 15px;
+    font-family: serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.modal-footer-step2 {
+    padding-top: 30px;
+}
+
+.m-progress-bar {
+    min-height: 1em;
+    background: #388E8E;
+    width: 5%;
+}
+
+.btn-contine-step1 {
+    margin-top: 10px;
+    color: white;
+    background-color: #388E8E;
+    border-color: #388E8E;
+    padding: 6px 12px;
+    width: 100px;
+}
+
+.input-sm {
+    margin: 0;
+}
+
+.btn-AlreadyRegistered {
+    margin-left: 56px;
+    color: black;
+}
+
+.login-margin {
+    margin: -5px 0 0 145px;
+}
+
+.font-forgot-password {
+    font-weight: 500;
+}
+
+.btn-primary-register {
+    background-color: #388E8E;
+    border-color: #388E8E;
+    color: white;
+}
+
+.bttn:hover {
+    color: white;
+}
+
+.buttonSigninEmail {
+    margin: 0 0 0 5px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #388E8E;
+    border-color: #388E8E;
+}
+
+.btn-success:hover {
+    background-color: #388E8E;
+}
+
+#catOne, #catTwo {
+    width: 100%;
+    padding: 5px;
+}
+
+.loginwithlinkedinMargin {
+    margin-left: -30px;
+}

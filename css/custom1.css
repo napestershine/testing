@@ -1,0 +1,22 @@
+.frmSearch {
+    border: 1px solid #F0F0F0;
+}
+
+#country-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#country-list li {
+    background: #FAFAFA;
+    border-bottom: #F0F0F0 1px solid;
+}
+
+#country-list li:hover {
+    background: #F0F0F0;
+}
+
+#search-box {
+    border: #F0F0F0 1px solid;
+}
